@@ -2,3 +2,4 @@ print "Hello word"
 print "Hello all"
 goto 1 -- добавлено в отдельной ветке
 print "Hello my dear friends"  -- hello-advanced
+print "Glad to see you"

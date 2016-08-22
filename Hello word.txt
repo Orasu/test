@@ -1,2 +1,3 @@
 print "Hello word"
 print "Hello all"
+goto 1 -- добавлено в отдельной ветке
